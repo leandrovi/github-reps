@@ -24,7 +24,7 @@
 
 ## :rocket: Sobre
 
-O objetivo do desafio era adicionar novas funcionalidades na aplicação que desenvolvida ao longo de um dos módulos do bootcamp da [Rocketsheat](https://github.com/Rocketseat).
+O objetivo do desafio era adicionar novas funcionalidades na aplicação que foi desenvolvida ao longo de um dos módulos do bootcamp da [Rocketsheat](https://github.com/Rocketseat).
 
 ### Aplicação online
 
