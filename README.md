@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="#rocket-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#wrench-stack-utilizada">Stack utilizada</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-stack-e-tools">Stack utilizada</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -32,13 +32,13 @@ O resultado final pode ser visto [nesse link](https://clever-hodgkin-6c5827.netl
 
 Dica: para pesquisar um repositório, basta procurar por "dono-do-repositorio/repositorio".
 
-## :wrench: Stack Utilizada
+## :wrench: Stack e Tools
 
 - [React](https://reactjs.org/)
 - [Styled Components](https://nextjs.org/learn/basics/styling-components)
-- [Webpack](https://webpack.js.org/)
-- [Webpack Dev Server](https://webpack.js.org/configuration/dev-server/)
-- [Babel](https://babeljs.io/)
+- [Axios](https://github.com/axios/axios)
+- [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
+- [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
 
 ## :memo: Licença
 
